@@ -1,0 +1,1 @@
+### I started this project to develop my design and layout skills as well as my responsive design skills because i thought i was lacking this is a simpler project but it has taught me a lot and has inproved unpon my pervious skill

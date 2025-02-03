@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@theme {
+  --font-young: Young Serif;
+  --font-outfit: Outfit;
+  --color-cream: #fffdd0;
+}
